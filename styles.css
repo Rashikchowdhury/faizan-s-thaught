@@ -1,6 +1,11 @@
+.nav > ul > li{
+    transition: color 0.3s ease-in-out;
+}
+
 .nav > ul > li:hover{
     color: rgb(7, 165, 7);
     cursor: pointer;
+    ;
 }
 
 header a {
